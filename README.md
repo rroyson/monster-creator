@@ -17,7 +17,7 @@
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-node
+   $ cd monster-creator
    ```
 
 4. Install the requirements
