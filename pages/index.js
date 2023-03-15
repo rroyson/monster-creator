@@ -84,7 +84,7 @@ export default function Home() {
               <input
                 className='w-full p-3 my-10 text-center text-white bg-teal-800 rounded dark:md:hover:bg-teal-600 text-bold'
                 type='submit'
-                value='Generate the legend'
+                value='Create the Legend'
               />
             )}
           </form>
